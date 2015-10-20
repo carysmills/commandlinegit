@@ -1,1 +1,2 @@
-alert("Well hello");
+var thing = "Ryan";
+var jason = "Kristen";

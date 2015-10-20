@@ -8,3 +8,7 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 h1 {
 	color: red;
 }
+
+h2 {
+	background: green;
+}
